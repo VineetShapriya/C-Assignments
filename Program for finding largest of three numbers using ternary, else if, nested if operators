@@ -14,9 +14,6 @@ int main() {
     return 0;
 }
 
-OUTPUT:-
-Largest number: 10
-PS C:\Users\student\Documents\vineet.c\vineet shapriya> 
 
 
 USING ELSE IF:
@@ -40,9 +37,7 @@ int main() {
     return 0;
 }
 
-OUTPUT:-
-Largest number: 10
-PS C:\Users\student\Documents\vineet.c\vineet shapriya> 
+
 
 USING NESTED IF:
 
@@ -69,8 +64,4 @@ int main() {
 
     return 0;
 }
-
-OUTPUT:-
-Largest number: 10
-PS C:\Users\student\Documents\vineet.c\vineet shapriya> 
 
